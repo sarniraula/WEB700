@@ -1,1 +1,1 @@
-# WEB700
+Repository for JavaScript Course (WEB700).
